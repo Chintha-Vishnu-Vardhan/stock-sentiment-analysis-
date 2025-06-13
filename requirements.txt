@@ -1,0 +1,10 @@
+praw
+pandas
+numpy
+newsapi-python
+transformers
+torch
+yfinance
+matplotlib
+seaborn
+streamlit
